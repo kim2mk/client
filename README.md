@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+Built during bootcamp, a site where users can log-in and adopt pets as well as put them up for adoption. Utilized React for the front end and MongoDB for the back end to store the data for the users and pets along with the routing.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Available Scripts
 
